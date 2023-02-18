@@ -50,6 +50,7 @@ public class ImageService {
 
     }
 
+    //no images gi
     private int no_Images(int scrl, int scrb, int imgl, int imgb) {
         int lenC = scrl/imgl;
         int lenB = scrb/imgb;
